@@ -1,0 +1,13 @@
+.Click{
+    background-color: black;
+    color: white;
+}
+
+.Alternate-Click{
+    background-color: yellow;
+}
+
+.Click,.Alternate-Click{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+}
